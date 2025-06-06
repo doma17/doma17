@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 저는 함께 성장하고 소통하는 개발자가 되고 싶은 곽병민입니다.
-
 새로운 기술에 대한 적응력과 이해력을 강점으로 가지고 있으며, 질문을 통한 의사소통 중심의 개발 문화를 지향합니다.
+AI 분야에 대한 관심, AI를 활용한 코딩도 좋아합니다. 
 
 ### About Me
 
@@ -10,7 +10,7 @@
 - 📧 Email: rovin1273@gmail.com
 
 ### Work Experience
-- 🏢 GlobalBridge | 솔루션개발팀 | 연구원 (2025.03 ~ 2025.04)
+- 🏢 GlobalBridge | 솔루션개발팀 | 인턴 (2025.03 ~ 2025.04)
   - 가상융합기술 기반 재난대응 교육훈련 플랫폼 개발
   - 인천시 ITS 2차 사업 참여
   - 동해시 도심 안전 모니터링 사업 고도화
@@ -56,6 +56,16 @@ Infra
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=DOCKER&logoColor=white"> 
+</div>
+
+### Tool
+
+<div style="display:flex; flex-direction:row;">
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
+  <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 </div>
 
 ### Certifications
