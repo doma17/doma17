@@ -16,23 +16,16 @@ AI 분야에 대한 관심이 높습니다.
   - 동해시 도심 안전 모니터링 사업 고도화
 
 - 🔧 HumanIN 외주 - Arduino Developer (2023.04 ~ 2024.12)
-  - 근전도(EMG) 데이터 수집 및 원격 전송 교육용 프로젝트 개발
-  - BLE와 MQTT 프로토콜을 활용한 통신 구현
 
 ### Projects
 - CodIN (2024.10 ~ 2025.02)
-  - 인천대학교 정보기술대학 커스텀 SNS 구축대회 대상 수상
-  - AWS에서 교내 On-premise 서버환경으로 마이그레이션
-  - Grafana/Prometheus 모니터링 시스템 구축
-  - Bucket4j를 활용한 Rate Limiting 구현
+  - 인천대학교 정보기술대학 커스텀 SNS 구축대회 대상
 
 - Crypto Coffee (2024.03 ~ 2024.06)
-  - DID를 통한 사내 커피 머신 인증 서비스 개발
-  - JWT Token 인증 및 Refresh Token Rotate 기법 도입
+  - DID를 통한 사내 커피 머신 인증 서비스
 
 - Order It (2023.10 ~ 2024.05)
   - 자연어 처리 기반 인공지능 음성인식 키오스크 서비스
-  - Java JNI를 통한 프린터기 통신 인터페이스 설계 및 구현
 
 ### Tech Stack
 Language & Framework
