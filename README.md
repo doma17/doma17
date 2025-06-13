@@ -56,3 +56,8 @@ Infra
 ### Certifications
 - AWS Cloud Practitioner Essentials
 - AWS Technical Essentials
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kwakbm5)](https://solved.ac/kwakbm5)
+
+
