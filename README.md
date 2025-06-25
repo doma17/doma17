@@ -50,12 +50,12 @@ Infra
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
   <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 </div>
 
 ### Certifications
 - AWS Cloud Practitioner Essentials
 - AWS Technical Essentials
+- SQLD
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kwakbm5)](https://solved.ac/kwakbm5)
