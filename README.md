@@ -7,15 +7,17 @@
 
 ### Work Experience
 
-- 🔧 HumanIN 외주 - Arduino Developer (2023.04 ~ 2024.12)
+- 🔧 [**HumanIN**](https://github.com/doma17/human-in-arduino) 외주 - Arduino Developer (2023.04 ~ 2024.12)
 
 ### Projects
-- CodIN (2024.10 ~ 2025.02)
-  - 인천대학교 정보기술대학 커스텀 SNS 구축대회 대상
-- Crypto Coffee (2024.03 ~ 2024.06)
+- [**CodIN**](https://github.com/doma17/CodIN-BACKEND) (2024.10 ~)
+  - 인천대학교 교내 SNS 프로젝트
+  - 인천대학교 정보기술대학 커스텀 SNS 구축대회 - **대상**
+- [**CryptoCoffee**](https://github.com/doma17/crypto-coffee-be) (2024.03 ~ 2024.06)
   - DID를 통한 사내 커피 머신 인증 서비스
-- Order It (2023.10 ~ 2024.05)
+- [**OrderIt**](https://github.com/doma17/order-it-backend) (2023.10 ~ 2024.05)
   - 자연어 처리 기반 인공지능 음성인식 키오스크 서비스
+  - 인천대학교 캡스톤 디자인 - 장려상
 
 ### Tech Stack
 #### Language & Framework
@@ -50,8 +52,8 @@
 </div>
 
 ### Certifications
-- AWS Cloud Practitioner Essentials
-- AWS Technical Essentials
-- SQLD
+- SQLD (2025.06)
+- AWS Technical Essentials (2024.11)
+- AWS Cloud Practitioner Essentials (2025.10)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kwakbm5)](https://solved.ac/kwakbm5)
