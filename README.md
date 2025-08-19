@@ -5,20 +5,6 @@
 - 🎓 인천대학교 컴퓨터공학부 졸업 (2019.02 ~ 2025.02)
 - 📧 Email: rovin1273@gmail.com
 
-### Work Experience
-
-- 🔧 [**HumanIN**](https://github.com/doma17/human-in-arduino) 외주 - Arduino Developer (2023.04 ~ 2024.12)
-
-### Projects
-- [**CodIN**](https://github.com/doma17/CodIN-BACKEND) (2024.10 ~)
-  - 인천대학교 교내 SNS 프로젝트
-  - 인천대학교 정보기술대학 커스텀 SNS 구축대회 - **대상**
-- [**CryptoCoffee**](https://github.com/doma17/crypto-coffee-be) (2024.03 ~ 2024.06)
-  - DID를 통한 사내 커피 머신 인증 서비스
-- [**OrderIt**](https://github.com/doma17/order-it-backend) (2023.10 ~ 2024.05)
-  - 자연어 처리 기반 인공지능 음성인식 키오스크 서비스
-  - 인천대학교 캡스톤 디자인 - 장려상
-
 ### Tech Stack
 #### Language & Framework
 <div style="display:flex; flex-direction:row;">
