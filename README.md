@@ -38,7 +38,8 @@
 </div>
 
 ### Certifications
-- SQLD (2025.06)
+- 정보처리기사 (2025.09)
+- SQL Developer (2025.06)
 - AWS Technical Essentials (2024.11)
 - AWS Cloud Practitioner Essentials (2025.10)
 
