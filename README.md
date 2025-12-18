@@ -5,8 +5,8 @@
 - Tech Blog: https://posigit.tistory.com/
 
 #### Career
-- Back-end Solution Engineer Intern - GlobalBridge (2025.03 ~ 04)
-- BI Back-end Engineer Intern - BitMango (2025.11 ~ )
+- Solution Back-end Engineer Intern - GlobalBridge (2025.03 ~ 04)
+- Platform Back-end Engineer Intern - BitMango (2025.11 ~ )
 
 ### Certifications
 - Engineer Information Processing (2025.09)
