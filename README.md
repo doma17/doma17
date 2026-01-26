@@ -2,11 +2,11 @@
 
 - 🎓 B.S. in Computer Science, Incheon National University  (2019.02 ~ 2025.02)
 - 📧 Email: rovin1273@gmail.com
-- Tech Blog: https://posigit.tistory.com/
+- 📪 Blog: https://posigit.tistory.com/
 
 #### Career
 - Solution Back-end Engineer Intern - GlobalBridge (2025.03 ~ 04)
-- Platform Back-end Engineer Intern - BitMango (2025.11 ~ )
+- Platform BI Backend Engineer Intern - BitMango (2025.11 ~ )
 
 ### Certifications
 - Engineer Information Processing (2025.09)
