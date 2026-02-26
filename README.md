@@ -6,7 +6,7 @@
 
 #### Career
 - Solution Back-end Engineer Intern - GlobalBridge (2025.03 ~ 04)
-- Platform BI Backend Engineer Intern - BitMango (2025.11 ~ )
+- Platform Backend Engineer - BitMango (2025.11 ~ )
 
 ### Certifications
 - Engineer Information Processing (2025.09)
