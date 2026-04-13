@@ -5,11 +5,5 @@
 - 📪 Blog: https://posigit.tistory.com/
 
 #### Career
-- Solution Back-end Engineer Intern - GlobalBridge (2025.03 ~ 04)
-- Platform Backend Engineer - BitMango (2025.11 ~ )
-
-### Certifications
-- Engineer Information Processing (2025.09)
-- SQL Developer (2025.06)
-- AWS Technical Essentials (2024.11)
-- AWS Cloud Practitioner Essentials (2025.10)
+- Platform Backend Engineer - BitMango (2025.11 ~ 2026.04)
+- Solution Back-end Engineer Intern - GlobalBridge (2025.03 ~ 2025.04)
